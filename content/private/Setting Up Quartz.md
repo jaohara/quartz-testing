@@ -8,7 +8,7 @@
 - [x] Figure out how the Github Actions are configured to build and deploy this
 - [x] Copy over existing [[AD470 Project]] directory to `./content/` in existing repo
 - [x] Add obsidian plugins and theming from `~/Dropbox/Documents/Notes` vault
-- [ ] Create [[Using Hugo HTML Partials in Quartz|Hugo HTML Partial]] for tabular csv data
+- [x] Create [[Using Hugo HTML Partials in Quartz|Hugo HTML Partial]] for tabular csv data
 - [ ] Test to see if the table partial works when deploying
 - [x] Look up where custom styling is applied to the Quartz Vault (`./assets/styles`?)
 - [ ] Add some theming to existing Quartz stylesheet

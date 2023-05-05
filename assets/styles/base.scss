@@ -1,9 +1,11 @@
 // Replace this with your own font imports!
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600&display=swap');
 :root {
-  --font-body: "Source Sans Pro";
-  --font-header: "Inter";
-  --font-mono: "Fira Code"
+  // --font-body: "Source Sans Pro";
+  --font-body: "Inter";
+  // --font-header: "Inter";
+  --font-header: "JetBrains Mono";
+  --font-mono: "JetBrains Mono"
 }
 
 // typography
@@ -21,7 +23,7 @@ html {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 4em 20vw;
   margin: 0 auto;
   max-width: 1000px;
   @media all and (max-width: 1200px) {
@@ -183,6 +185,7 @@ blockquote {
 article {
   & > h1 {
     margin-top: 2em;
+    margin-bottom: .5rem;
     font-size: 2em;
   }
 
@@ -196,7 +199,7 @@ article {
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
+      // background-color: transparentize(#8f9fa9, 0.85);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
