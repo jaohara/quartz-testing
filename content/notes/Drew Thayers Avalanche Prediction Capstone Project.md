@@ -1,5 +1,5 @@
 ---
-title: "Drew Thayer's Avalanche Prediction Capstone Project"
+title: "Drew Thayers Avalanche Prediction Capstone Project"
 tags:
 - capstone
 - github

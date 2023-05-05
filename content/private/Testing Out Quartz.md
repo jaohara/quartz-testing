@@ -3,7 +3,6 @@
 
 # Tasks:
 - [x] Make a repo for quartz
-- [x] Put on Mets game
 - [x] Manually copy the [official Quartz repo](https://github.com/jackyzha0/quartz) 
 - [x] Push the modified repo up to see if this is a valid way to add quartz to an existing project
 - [x] Figure out how the Github Actions are configured to build and deploy this

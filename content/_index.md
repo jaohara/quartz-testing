@@ -1,9 +1,6 @@
 ---
-title: "Avalanche Prediction"
+title: "Avalanche Prediction Project"
 enableToc: false
 ---
 
-This is an Obsidian vault for Team 3's AD470 Practicum on Avalanche Prediction.
-
-
-
+Alright, I'm testing again now that the link style is updated.

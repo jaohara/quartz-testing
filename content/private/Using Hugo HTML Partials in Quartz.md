@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 I wanted to use a [Hugo HTML Partial Template](https://gohugo.io/templates/partials/) to handle displaying a `.csv` file as a table.
 
 I asked ChatGPT for some advice on how to do that, and this was the response:
